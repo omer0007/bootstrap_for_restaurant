@@ -9,14 +9,14 @@
   min-height: 400px; }
 
 .footer {
-  background-color: #D1C4E9;
+  background-color: #81967d;
   margin: 0px;
   padding: 20px 0px; }
 
 .jumbotron {
   margin: 0px;
   padding: 70px 30px;
-  background: #9575CD;
+  background: #298d29;
   color: floralwhite; }
 
 address {
@@ -29,7 +29,7 @@ body {
   z-index: 0; }
 
 .navbar-dark {
-  background-color: #512DA8; }
+  background-color: #185712; }
 
 .tab-content {
   border-left: 1px solid #ddd;
@@ -38,7 +38,7 @@ body {
   padding: 10px; }
 
 .carousel {
-  background: #512DA8; }
+  background: #185712; }
   .carousel .carousel-item {
     height: 300px; }
     .carousel .carousel-item img {
@@ -52,3 +52,15 @@ body {
   position: absolute;
   bottom: 0px;
   z-index: 1; }
+
+.modal-header {
+  background: #185712;
+  color: floralwhite; }
+
+.modal-body {
+  background: #81967d; }
+
+.close {
+  background: floralwhite;
+  color: floralwhite;
+  opacity: 1; }
